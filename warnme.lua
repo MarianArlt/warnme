@@ -263,6 +263,6 @@ windower.register_event('addon command', function(command, ...)
         windower.add_to_chat(207, "//wm size [ability/details] [size] : Changes the font size of either one")
         windower.add_to_chat(207, "//wm tune [0.5-1.5] : Tune alignment; lower to push right, raise to push left")
         windower.add_to_chat(207, "//wm mode : Toogles between allowing own claims or any, even by others")
-        windower.add_to_chat(207, "//wm sticky: Toggles forced visibility for manual positioning on y-axis")
+        windower.add_to_chat(207, "//wm sticky : Toggles forced visibility for manual positioning on y-axis")
     end
 end)

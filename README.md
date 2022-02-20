@@ -18,4 +18,4 @@ Actions are printed autonomously and do not rely in any way on your chat log or 
     //wm size [ability/details] [size] : Changes the font size of either one
     //wm tune [0.5-1.5] : Tune alignment; lower to push right, raise to push left
     //wm mode : Toogles between allowing own claims or any, even by others
-    //wm sticky: Toggles forced visibility for manual positioning on y-axis
+    //wm sticky : Toggles forced visibility for manual positioning on y-axis
