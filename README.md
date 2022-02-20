@@ -1,7 +1,8 @@
 # WarnMe
 A Windower 4 addon for Final Fantasy XI
 
-warnme was built to prominently print a targeted enemies actions to the players screen. Any ability, tp-move or spell is simply printed to the center of the screen for a few seconds, showing the name of the action, who the actor was and on who the action was used.  
+WarnMe was built to prominently print a targeted enemies actions to the players screen.  
+Any ability, tp-move or spell is rendered to the center of the window for a few seconds, showing the name of the action, who the actor was and who the action was used on.  
 
 This is for you if you want to:
 - see when Pain Sync goes off without having to stare at your log
