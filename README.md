@@ -14,7 +14,7 @@ Actions are printed autonomously and do not rely in any way on your chat log or 
 <br>
 ## Commands
     //wm toggle [actor/target/spells] : Toggles display of the passed argument
-    //wm timeout [seconds] : Sets the time the action will be displayed
+    //wm timeout [seconds] : Sets the duration for which the action will be displayed
     //wm size [ability/details] [size] : Changes the font size of either one
     //wm tune [0.5-1.5] : Tune alignment; lower to push right, raise to push left
     //wm mode : Toogles between allowing own claims or any, even by others
