@@ -9,6 +9,7 @@ This is for you if you want to:
 - react faster to certain monster actions
 - learn about a monsters skill set
 - focus less on customizing your chat log and having to depend on it
+- ignore your chat log altogether
 
 Actions are printed autonomously and do not rely in any way on your chat log or how you have your chat log filtered. This addon does not intend to replace existing addons that might include similar functionality. Instead it is meant to be a very simple and effective solution to the old issue of not reacting to a certain skill or spell because of it flying through the log with the speed of light. Completely built from scratch.   
 <br>
